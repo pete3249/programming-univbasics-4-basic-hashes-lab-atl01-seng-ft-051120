@@ -20,7 +20,7 @@ pioneer[:name]
 
 def id_hash_generator(number)
   id_hash_generator = {
-    :id => number
+    :id => 9
   }
 end
 
